@@ -15,7 +15,7 @@ body{
     max-width:1200px;
     margin:0 auto !important;
     overflow-x: hidden !important;
-    background:linear-gradient(#c04848,#480048);
+    background:linear-gradient(#41295a,#2f0743);
 }
 html{
     scroll-behavior:smooth;
