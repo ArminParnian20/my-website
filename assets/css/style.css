@@ -32,7 +32,7 @@ ul{
     list-style: none;
 }
 header{
-    background:url(/assets/images/b2.jpg) center center/cover;
+    background:url(/assets/b2.jpg) center center/cover;
     position: relative;;
     overflow: hidden;
     width:100%;
